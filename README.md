@@ -1,4 +1,4 @@
 # lab-delivery
-rappi-consumer.netlify.app
-rappi-delivery.netlify.app
-rappi-store.netlify.app
+https://rappi-store.netlify.app/
+https://rappi-consumer.netlify.app/
+https://rappi-delivery.netlify.app/
